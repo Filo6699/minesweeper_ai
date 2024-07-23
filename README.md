@@ -18,3 +18,7 @@ I don't know how other minesweeper bots work, nor do i know theory, so the namin
 *Sometimes a field that seems to be 50/50 can be solved using the amount of mines remaining*
 
 I don't know if i will ever continue though xd
+
+## Demo
+
+![Demo video](assets/demo.gif)
